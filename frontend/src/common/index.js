@@ -1,5 +1,5 @@
 
-const backenddomain="http://localhost:8080" 
+const backenddomain="https://rbac-a-5ws1-qd08ifunv-rakesh-kushwahas-projects.vercel.app" 
 
 const SummaryApi= {
     signUP:{
