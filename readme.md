@@ -15,3 +15,8 @@ this project setup for run
 
 
 # I have also add the backend part for any operation  like add  role change and add product or delete product
+
+admin email:rr@gmail.com   password:RR
+superadmin:rk75183294206@gmail.com  password:RR
+
+click the user profile for admin access for admin and superadmin access
