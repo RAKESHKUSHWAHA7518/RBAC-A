@@ -10,10 +10,10 @@
   const router= require('./routes/index.js')
 
   const cookieParser = require('cookie-parser')
-   const FRONTEND_URL="https://rbac-a.vercel.app/"
+   const FRONTEND_URL="http://localhost:3000"
  const app = express()
  app.use(cors({
-    origin:'*',
+    origin:FRONTEND_URL,
     credentials:true,
  }))
  app.use(express.json())
