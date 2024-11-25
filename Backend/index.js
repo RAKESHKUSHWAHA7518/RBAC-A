@@ -13,7 +13,7 @@
    const FRONTEND_URL="https://rbac-a.vercel.app/"
  const app = express()
  app.use(cors({
-    origin:FRONTEND_URL,
+    origin:'*',
     credentials:true,
  }))
  app.use(express.json())
