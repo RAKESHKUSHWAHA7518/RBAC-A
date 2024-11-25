@@ -10,7 +10,7 @@
   const router= require('./routes/index.js')
 
   const cookieParser = require('cookie-parser')
-   const FRONTEND_URL="https://rbac-a-rakesh-kushwahas-projects.vercel.app"
+   const FRONTEND_URL="https://rbac-5oerkn1wg-rakesh-kushwahas-projects.vercel.app"
  const app = express()
  app.use(cors({
     origin:FRONTEND_URL,
